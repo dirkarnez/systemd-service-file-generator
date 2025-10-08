@@ -3,6 +3,8 @@ systemd-service-file-generator
 
 ### References
 - https://github.com/ROCKNIX/distribution/blob/dev/packages/audio/fluidsynth/system.d/fluidsynth.service
+- [kylemanna/systemd-utils: Random systemd utilities](https://github.com/kylemanna/systemd-utils)
+
 
 ### TODOs
 - use form event with builder pattern
